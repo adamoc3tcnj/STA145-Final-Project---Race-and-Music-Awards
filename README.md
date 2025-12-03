@@ -2,7 +2,7 @@
 In my final project, I chose to analyze the relationship between race of artists and awards they receive for their top charting songs.
 
 ##  **Instructions**
-To aces and utilize the script, open the "adamoc3-final_project-2.R", whcih contains the code for my project. To acess the dataset, open the "" file. 
+To aces and utilize the script, open the "adamoc3-final_project-2.R", whcih contains the code for my project. To acess the dataset, open the "data.csv" file. 
 
 ## **Data**
 The data collected from our proejct was
