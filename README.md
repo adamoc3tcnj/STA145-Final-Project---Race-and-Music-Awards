@@ -5,7 +5,7 @@ In my final project, I chose to analyze the relationship between race of artists
 To aces and utilize the script, open the "adamoc3-final_project-2.R", whcih contains the code for my project. To acess the dataset, open the "data.csv" file. 
 
 ## **Data**
-The data collected for our proejct was all the songs, systematically sampled, from Pitchforks, "The 200 Best songs of the 2010s", and data regarding each song was collected from various sources including: Wikipedia, Youtube, Genius, Spotify and Apple Music, Music Charts Archive, riaa, who.sampled, and musicstax. Each unit of analysis was one song, and 200 observations were collected.
+The data collected for our proejct was all the songs, systematically sampled, from Pitchforks, "The 200 Best songs of the 2010s", and data regarding each song was collected from various sources including: Wikipedia, Youtube, Genius, Spotify and Apple Music, Music Charts Archive, riaa, who.sampled, and musicstax. Each unit of analysis was one song, and 200 observations were collected. A complete case filter was applied using which removed rows with missing values, leaving the total count at 166 songs.
 
 Using this data, I wanted to determine if there is a relationship between the race of the main artist on their top charting song, as well as if they recieve any sort of award for their song.
 
